@@ -1,1 +1,0 @@
-# Tugas_DataMining_Preprocessing_Data_Mlbb1
